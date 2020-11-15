@@ -7,7 +7,7 @@
 * Circuit breaker
 * Event store
 * Cqrs
-
+* API gateway
 * Buses and queues
 * We hook
 * Web socket
